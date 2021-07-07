@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html Just Do this>
 <html lang="en">
 <head>
     <title>Bootstrap Example</title>
